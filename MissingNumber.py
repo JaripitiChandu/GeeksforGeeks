@@ -5,4 +5,4 @@ def missingNumber(self, n, arr):
         for i in arr:
             cal_sum+=i
         return sum-cal_sum
-        # code here
+##        # code here
